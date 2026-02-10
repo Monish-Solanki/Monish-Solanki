@@ -41,14 +41,9 @@ When I'm not working with data, I enjoy drawing, which helps me think visually a
 <p>
   <!-- 💡 Go to Shields.io to create your own badges -->
   <img src="https://img.shields.io/badge/SQL-Intermediate-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL Skill Badge">
-  <img src="https://img.shields.io/badge/Power%20BI-Expert-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI Skill Badge">
+  <img src="https://img.shields.io/badge/Power%20BI-Intermediate-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI Skill Badge">
   <img src="https://img.shields.io/badge/Excel-Expert-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel Skill Badge">
-  <img src="https://img.shields.io/badge/Google Sheets-Intermediate-E97627?style=flat&logo=tableau&logoColor=white" alt="Google Sheets Skill Badge">
-</p>
-
-#### Programming & Automation
-<p>
-  <img src="https://img.shields.io/badge/Python-Beginner-3776AB?style=flat&logo=python&logoColor=white" alt="Python Skill Badge">
+  <img src="https://img.shields.io/badge/Google Sheets-Expert-E97627?style=flat&logo=tableau&logoColor=white" alt="Google Sheets Skill Badge">
 </p>
 
 #### Analytical Skills
@@ -56,6 +51,13 @@ When I'm not working with data, I enjoy drawing, which helps me think visually a
   <img src="https://img.shields.io/badge/VLOOKUP-Experienced-FF6B6B?style=flat" alt="VLOOKUP Skill Badge">
   <img src="https://img.shields.io/badge/DAX-Intermediate-E97627?style=flat" alt="DAX Skill Badge">
   <img src="https://img.shields.io/badge/Statistical%20Analysis-Experienced-4ECDC4?style=flat" alt="Statistical Analysis Skill Badge">
-  <img src="https://img.shields.io/badge/Power%Query%Editor-Intermediate-45B7D1?style=flat" alt="Power Query Editor Skill Badge">
+  <img src="https://img.shields.io/badge/Power%20Query%20Editor-Intermediate-45B7D1?style=flat" alt="Power Query Editor Skill Badge">
   <img src="https://img.shields.io/badge/GSQ-Intermediate-96CEB4?style=flat" alt="GSQ Skill Badge">
 </p>
+
+#### Programming & Automation
+<p>
+  <img src="https://img.shields.io/badge/Python-Beginner-3776AB?style=flat&logo=python&logoColor=white" alt="Python Skill Badge">
+</p>
+
+
