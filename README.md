@@ -13,11 +13,11 @@
 </p>
 
 ## 🚀 About Me 
-I'm a data analyst passionate about helping businesses make sense of their data. I enjoy transforming complex, messy datasets into clear stories and actionable insights.
+I’m an aspiring Data Analyst and BSc (Hons) Accounting and Finance graduate with hands-on experience using Excel, SQL, Google Sheets, and Power BI to clean, analyse, and visualise data.
 
-My focus is on building dashboards that get used, automating repetitive tasks to free up teams for more interesting problems, and creating models that help businesses plan for the future.
+I enjoy turning messy datasets into clear insights through data cleaning, querying, and dashboard building. 
 
-When I'm not working with data, I enjoy [Your Hobby or Passion, e.g., creating content, hiking, mentoring others, etc.]. I love the "aha!" moment when data reveals something new and useful.
+When I'm not working with data, I enjoy drawing, which helps me think visually and design clear, user-friendly dashboards. I love building reports and dashboards that are practical, accurate, easy to use and reveal something new and useful for stakeholders.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
 ### [🏆 Check Out My Full Portfolio Website](https://your-username.github.io/)
@@ -30,6 +30,8 @@ When I'm not working with data, I enjoy [Your Hobby or Passion, e.g., creating c
 ## 🌱 Currently Learning 
 
 - NCFE Level 3 Data Certification
+- SQL
+- Python
 
 ## 🛠️ Technical Skillset
 
@@ -49,10 +51,11 @@ When I'm not working with data, I enjoy [Your Hobby or Passion, e.g., creating c
   <img src="https://img.shields.io/badge/Python-Beginner-3776AB?style=flat&logo=python&logoColor=white" alt="Python Skill Badge">
 </p>
 
-#### Business Intelligence & Analytics
+#### Analytical Skills
 <p>
-  <img src="https://img.shields.io/badge/A%2FB%20Testing-Experienced-FF6B6B?style=flat" alt="A/B Testing Skill Badge">
+  <img src="https://img.shields.io/badge/VLOOKUP-Experienced-FF6B6B?style=flat" alt="VLOOKUP Skill Badge">
+  <img src="https://img.shields.io/badge/DAX-Intermediate-E97627?style=flat" alt="DAX Skill Badge">
   <img src="https://img.shields.io/badge/Statistical%20Analysis-Experienced-4ECDC4?style=flat" alt="Statistical Analysis Skill Badge">
-  <img src="https://img.shields.io/badge/Predictive%20Modeling-Intermediate-45B7D1?style=flat" alt="Predictive Modeling Skill Badge">
-  <img src="https://img.shields.io/badge/KPI%20Development-Expert-96CEB4?style=flat" alt="KPI Development Skill Badge">
+  <img src="https://img.shields.io/badge/Power%Query%Editor-Intermediate-45B7D1?style=flat" alt="Power Query Editor Skill Badge">
+  <img src="https://img.shields.io/badge/GSQ-Intermediate-96CEB4?style=flat" alt="GSQ Skill Badge">
 </p>
