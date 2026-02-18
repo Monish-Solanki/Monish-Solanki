@@ -24,7 +24,7 @@ When I'm not working with data, I enjoy drawing, which helps me think visually a
       
 ## 🔭 What I'm Currently Working On 
 
-- **Project A:** [Brief, one-line description of a project, e.g., Building a sales forecasting model in Python.]  
+- **[Crescent Plc Dashboard:](https://github.com/Monish-Solanki/Crescent-Plc-Dashboard)** [Buiit a sales dashboard analysing the impact promotion on revenue and customer retention.]  
 - **Project B:** [Brief, one-line description of another project, e.g., Creating an interactive marketing dashboard in Power BI.]
 
 ## 🌱 Currently Learning 
