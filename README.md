@@ -1,4 +1,6 @@
-## Hi there, I'm Monish 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Monish%20Solanki&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%7C%20Storyteller%20%7C%20Problem%20Solver&descAlignY=55&descSize=20" width="100%"/>
+</div>
 
 <div align="center">
   <!--  You can customize the typing text in the "lines=" section of the URL below -->
@@ -9,6 +11,7 @@
 <!-- 🔗 Update these links with your own social media and contact information -->
 <p align="center">
   <a href="https://www.linkedin.com/in/monishsolanki/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="mailto:monishsolanki29@gmail.com"><img src="https://img.shields.io/badge/Portfolio-Red?style=for-the-badge&logo="></a>
   <a href="mailto:monishsolanki29@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
 </p>
 
