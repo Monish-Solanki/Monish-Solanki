@@ -2,16 +2,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Monish%20Solanki&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%7C%20Storyteller%20%7C%20Problem%20Solver&descAlignY=55&descSize=20" width="100%"/>
 </div>
 
-<div align="center">
-  <!--  You can customize the typing text in the "lines=" section of the URL below -->
-  <!--  For an ampersand (&), use &amp; (e.g., Analytics+%26+Optimization) -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Analyst+%7C+Business+Intelligence;Turning+Data+into+Actionable+Insights;Accounting+Finace+Graduate" alt="Typing SVG" />
-</div>
-
 <!-- 🔗 Update these links with your own social media and contact information -->
 <p align="center">
   <a href="https://www.linkedin.com/in/monishsolanki/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="mailto:monishsolanki29@gmail.com"><img src="https://img.shields.io/badge/Portfolio-Red?style=for-the-badge&logo="></a>
+  <a href="mailto:monishsolanki29@gmail.com"><img src="https://img.shields.io/badge/Portfolio-45B7D1?style=for-the-badge&logo=portfolio"></a>
   <a href="mailto:monishsolanki29@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
 </p>
 
@@ -25,12 +19,12 @@ When I'm not working with data, I enjoy drawing, which helps me think visually a
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
 ### [🏆 Check Out My Full Portfolio Website](https://your-username.github.io/)
       
-## 🔭 What I'm Currently Working On 
+## 🔭 Recent Projects 
 
 - **[Crescent Plc Dashboard:](https://github.com/Monish-Solanki/Crescent-Plc-Dashboard)** [Built a sales dashboard analysing the impact promotion on revenue and customer retention.]  
 - **Project B:** [Brief, one-line description of another project, e.g., Creating an interactive marketing dashboard in Power BI.]
 
-## 🌱 Currently Learning 
+## 🌱 Currently Learning & Working On
 
 - NCFE Level 3 Data Certification
 - SQL
@@ -43,7 +37,7 @@ When I'm not working with data, I enjoy drawing, which helps me think visually a
 #### Data Analysis & Visualization
 <p>
   <!-- 💡 Go to Shields.io to create your own badges -->
-  <img src="https://img.shields.io/badge/SQL-Intermediate-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL Skill Badge">
+  <img src="https://img.shields.io/badge/SQL-Intermediate-4479A1?style=flat&logo=sql&logoColor=white" alt="SQL Skill Badge">
   <img src="https://img.shields.io/badge/Power%20BI-Intermediate-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI Skill Badge">
   <img src="https://img.shields.io/badge/Excel-Expert-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel Skill Badge">
   <img src="https://img.shields.io/badge/Google Sheets-Expert-E97627?style=flat&logo=tableau&logoColor=white" alt="Google Sheets Skill Badge">
